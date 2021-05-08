@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace DR.Components.Projects.Types
+namespace DR.Components.Projects.Dto
 {
+    [Serializable]
     public class Tag
     {
         public string Class { get; set; }

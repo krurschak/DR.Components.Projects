@@ -1,4 +1,4 @@
-﻿using DR.Components.Projects.Types;
+﻿using DR.Components.Projects.Dto;
 using DR.Packages.MassTransit;
 using System;
 using System.Collections.Generic;
